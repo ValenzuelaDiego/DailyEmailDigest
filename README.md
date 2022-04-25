@@ -9,9 +9,9 @@ Diego Valenzuela lo replica en seguimiento al curso "Python projects" creado por
 As a digest recipent (who), I want to receive an email every morning with current and useful information (the goal/what) so that I know what is going on in the world and learn something new everyday (why).
 
 ### Use Case
--Title: Read Tweets about a Twitter Trend (what the goal is).
--Actor: The digest recipent (who desires it).
--Scenario (how is it accomplished):
+- Title: Read Tweets about a Twitter Trend (what the goal is).
+- Actor: The digest recipent (who desires it).
+- Scenario (how is it accomplished):
   1- The recipent opens the digest email in the email client.
   2- The recipent sees an interesting Twitter trend.
   3- The recipient clicks on the trend link.
