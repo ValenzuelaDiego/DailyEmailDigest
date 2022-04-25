@@ -12,10 +12,10 @@ As a digest recipent (who), I want to receive an email every morning with curren
 - Title: Read Tweets about a Twitter Trend (what the goal is).
 - Actor: The digest recipent (who desires it).
 - Scenario (how is it accomplished):
-  1- The recipent opens the digest email in the email client.
-  2- The recipent sees an interesting Twitter trend.
-  3- The recipient clicks on the trend link.
-  4- The link opens a web browser to a page of related tweets.
+  - The recipent opens the digest email in the email client.
+  - The recipent sees an interesting Twitter trend.
+  - The recipient clicks on the trend link.
+  - The link opens a web browser to a page of related tweets.
   
 ### Requirements: 
   - Generate a random inspirational quote.
