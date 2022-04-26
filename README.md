@@ -24,6 +24,14 @@ As a digest recipent (who), I want to receive an email every morning with curren
   - Retrieve a random Wikipedia article.
   - Formar content into a email.
   - Send email to specified recipients.
+Nouns: quote, forecast, location, trends, article, content, email, recipients (potential objects in my program).
+
+Verb Phrases: generate quote, retrieve forecast, retrieve trends, retrieve article, format content, send email, configure content, add recipients, remove recipients, schedule time, configure credentials.
+
+Objects:
+  - Content: Generate quote, retrieve forecast, retrieve trends, retrieve article.
+  - Email: format content, send email.
+  - GUI: configure content, add recipients, remove recipients, schedule time, configure credentials.
 
 ### Non-functionals requirements (how should it do it):
 - Configurable using admin GUI.
