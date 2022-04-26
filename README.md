@@ -29,7 +29,7 @@ Nouns: quote, forecast, location, trends, article, content, email, recipients (p
 
 Verb Phrases: generate quote, retrieve forecast, retrieve trends, retrieve article, format content, send email, configure content, add recipients, remove recipients, schedule time, configure credentials.
 
-Objects:
+Objects and their actions:
   - Content: Generate quote, retrieve forecast, retrieve trends, retrieve article.
   - Email: format content, send email.
   - GUI: configure content, add recipients, remove recipients, schedule time, configure credentials.
