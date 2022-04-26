@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T00:01:13.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="eK2ThWX-zeA6nNJ6FZEv" type="github"><diagram id="6hCquJYpXTbsw-sdWlCD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-26T00:16:18.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QjfHAHhA1k3EPPTMb-t_" version="17.4.6" type="github">
+  <diagram id="6hCquJYpXTbsw-sdWlCD" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ugw-hgld20yAVd3J_ygH-1" value="Content" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="50" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugw-hgld20yAVd3J_ygH-2" value="get_quote()&#xa;get_forecaste()&#xa;get_trends()&#xa;get_article()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ugw-hgld20yAVd3J_ygH-1">
+          <mxGeometry y="30" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugw-hgld20yAVd3J_ygH-5" value="Email" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="50" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugw-hgld20yAVd3J_ygH-6" value="recipients: list&#xa;format_message()&#xa;send_email()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ugw-hgld20yAVd3J_ygH-5">
+          <mxGeometry y="30" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugw-hgld20yAVd3J_ygH-9" value="GUI" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="50" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ugw-hgld20yAVd3J_ygH-10" value="config_content()&#xa;add_recipients()&#xa;remove_recipients()&#xa;schedule_time()&#xa;config_credentials()&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="Ugw-hgld20yAVd3J_ygH-9">
+          <mxGeometry y="30" width="140" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
